@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Гараж",
-    "slug": "car-catalog",
+    "slug": "getcars",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
